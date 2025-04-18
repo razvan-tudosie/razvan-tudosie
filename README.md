@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Razvan</h1>
-<h3 align="center">A passionate UI/UX designer from Romania.</h3>
+<h3 align="center">A passionate Product Designer from Romania.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
